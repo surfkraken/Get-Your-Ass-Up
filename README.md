@@ -8,4 +8,4 @@ For those who treat the snooze button like a competitive sport, this shortcut un
 
 ## Updates
 
-The shortcut automatically checks GitHub for new versions and offers to install them when available.
+New in v3: Safe alarm deletion! Get Your Ass Up! now deletes only the alarms it creates, leaving your personal alarms untouched.
