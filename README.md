@@ -4,7 +4,7 @@ For those who treat the snooze button like a competitive sport, this shortcut un
 
 ## Install the Shortcut
 
-[Download Get Your Ass Up!](https://www.icloud.com/shortcuts/5a9656fae8c9461a8cf6e4e454d040ef)
+[Download Get Your Ass Up!](https://www.icloud.com/shortcuts/8ccd39071c1342df867c0a2701f185d5)
 
 ## Updates
 
