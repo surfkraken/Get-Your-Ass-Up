@@ -9,4 +9,5 @@ For those who treat the snooze button like a competitive sport, this shortcut un
 ## Updates
 
 Version 3, Build 300
+
 New in v3: Safe alarm deletion! Get Your Ass Up! now deletes only the alarms it creates, leaving your personal alarms untouched.
