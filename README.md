@@ -14,7 +14,7 @@ Create your own alarm schedules in seconds using Apple Shortcuts.
 
 ### Version 6.0 | Build 600
 
-#### 🚀 What's New in v5
+#### 🚀 What's New in v6
 
 ### 🛏️ Wake Me In
 
