@@ -1,4 +1,4 @@
-Get Your Ass Up!
+##Get Your Ass Up!##
 
 For those who treat the snooze button like a competitive sport, this shortcut unleashes an army of alarms to drag your lazy ass out of bed.
 
