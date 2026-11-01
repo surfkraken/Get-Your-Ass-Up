@@ -1,5 +1,5 @@
 {
-  "version": 4,
-  "url": "https://www.icloud.com/shortcuts/b09482ede3d9431eacb5fcbb6d02f027",
-  "release_notes": "v4 adds Bedtime Reality Check! See exactly how many hours and minutes remain until your first alarm, including wake-up times after midnight."
+  "version": 5,
+  "url": "https://www.icloud.com/shortcuts/83dc41f670fa441bbc7d99a16da2f5f5",
+  "release_notes": "Version 5.0 (Build 500) introduces Wake Me In scheduling with countdown confirmations, improved input validation, streamlined alarm management, and updated About information."
 }
