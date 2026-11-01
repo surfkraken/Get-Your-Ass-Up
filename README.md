@@ -36,4 +36,4 @@ Your alarms are set. Now find out exactly how much time you have left before you
 
 ⸻
 
-Created by SurfKraken.
+Created by 🐙 SurfKraken.
