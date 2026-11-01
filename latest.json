@@ -1,5 +1,6 @@
 {
   "version": 6,
-  "url": "https://www.icloud.com/shortcuts/b74885d690074d1b9353838411552557",
-  "release_notes": "Version 6.0 (Build 600) introduces Wake Me In scheduling with countdown confirmations, improved input validation, streamlined alarm management, and updated About information."
+  "build": 601,
+  "url": "https://www.icloud.com/shortcuts/a96352abc5874d189662eee70de27266",
+  "release_notes": "Version 6 (Build 601) includes interface improvements and build-based update checking."
 }
