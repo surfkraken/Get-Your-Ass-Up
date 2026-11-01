@@ -50,4 +50,4 @@ Get Your Ass Up! is built with Apple Shortcuts to make alarm management faster, 
 
 Created by **SurfKraken**.
 
-[View the project on GitHub](https://github.com/surfkraken/Get-Your-Ass-Up)
+[View more shortscuts on GitHub](https://github.com/surfkraken/)
