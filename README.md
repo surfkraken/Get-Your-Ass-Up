@@ -1,22 +1,41 @@
-# Get Your Ass Up!
+Get Your Ass Up!
 
 For those who treat the snooze button like a competitive sport, this shortcut unleashes an army of alarms to drag your lazy ass out of bed.
 
-## Install the Shortcut
+Install the Shortcut
 
-[Download Get Your Ass Up!](https://www.icloud.com/shortcuts/b09482ede3d9431eacb5fcbb6d02f027)
+Download Get Your Ass Up!
 
-## Updates
+Updates
 
-Version 4, Build 400
+Version 5.0 | Build 500
 
-🚀 What’s New in v4
+🚀 What’s New in v5
+
+🛏️ Wake Me In
+
+Tell Get Your Ass Up! how many hours you want to sleep, and it calculates when your alarms should start ringing.
+
+* Sleep-based scheduling: Choose how many hours you want to sleep, how many alarms to create, and the spacing between them.
+* ⏰ Live countdown: See exactly how many hours and minutes remain until your first alarm.
+* 🌙 Midnight-proof: Alarm times calculate correctly across midnight.
+* 🔔 Better confirmations: See your first alarm time, total alarms created, and spacing in one clean confirmation.
+* 🛡️ Smarter input validation: Invalid entries trigger helpful prompts instead of creating incorrect alarms.
+* 🗑️ Safe cleanup: Delete GYAU alarms without affecting your personal alarms.
+* 🔕 One-tap silence: Turn off all alarms without deleting them.
+* ⚙️ About & Version Information: View the current version, build number, and SurfKraken GitHub repository directly from the shortcut.
+
+Version 4.0 | Build 400
 
 🛏️ Bedtime Reality Check
 
 Your alarms are set. Now find out exactly how much time you have left before your ass needs to get up.
 
-* Live countdown: See the hours and minutes until your first alarm.
-* Midnight-proof: Wake-up times after midnight calculate correctly, even when you’re setting alarms late at night.
-* Better confirmation: A full-screen alert confirms how many alarms were created and how much time you have left in bed.
-* Same simple cleanup: Delete your Get Your Ass Up! alarms without touching your other alarms. 
+* Countdown confirmation: See the hours and minutes until your first alarm.
+* Midnight-proof scheduling: Wake-up times after midnight calculate correctly.
+* Better confirmation: Review how many alarms were created and when they’ll start.
+* Simple cleanup: Delete Get Your Ass Up! alarms without touching your other alarms.
+
+⸻
+
+Created by SurfKraken.
