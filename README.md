@@ -12,7 +12,7 @@ Create your own alarm schedules in seconds using Apple Shortcuts.
 
 ## 📢 Updates
 
-### Version 6.0 | Build 601
+### Version 6.0 | Build 602
 
 #### 🚀 What's New in v6
 
