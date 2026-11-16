@@ -4,7 +4,7 @@ For those who treat the snooze button like a competitive sport, this shortcut un
 
 ## ⏰ Install the Shortcut
 
-### [Download Get Your Ass Up!](https://www.icloud.com/shortcuts/2ca903f3264a42f8bc7819798fe5e466)
+### [Download Get Your Ass Up!](https://www.icloud.com/shortcuts/25a2ab694e994fe29c9f460832bc767c)
 
 Create your own alarm schedules in seconds using Apple Shortcuts.
 
