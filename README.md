@@ -2,23 +2,33 @@
 
 For those who treat the snooze button like a competitive sport, this shortcut unleashes an army of alarms to drag your lazy ass out of bed.
 
+
 ## ⏰ Install the Shortcut
 
-### [Download Get Your Ass Up!](https://www.icloud.com/shortcuts/25a2ab694e994fe29c9f460832bc767c)
+
+### [Download Get Your Ass Up!](https://www.icloud.com/shortcuts/cbf0ed7bd9e84e34955f99b22704247f)
+
 
 Create your own alarm schedules in seconds using Apple Shortcuts.
 
+
 ---
+
 
 ## 📢 Updates
 
-### Version 7.0 | Build 700
+
+### Version 7.0 | Build 705
+
 
 #### 🚀 What's New in v7
 
+
 ### 🛏️ Wake Me In
 
+
 Tell Get Your Ass Up! how many hours you want to sleep, and it calculates exactly when your alarms should start ringing.
+
 
 - **Sleep-based scheduling:** Choose how many hours you want to sleep, how many alarms to create, and the spacing between them.
 - **⏰ Live countdown:** See exactly how many hours and minutes remain until your first alarm.
@@ -29,25 +39,40 @@ Tell Get Your Ass Up! how many hours you want to sleep, and it calculates exactl
 - **🔕 One-tap silence:** Turn off all alarms without deleting them.
 - **⚙️ About & Version Information:** View the current version, build number, and SurfKraken GitHub repository directly from the shortcut.
 
+
+#### Build 705 Fix
+
+Returning from the GitHub project page no longer launches the shortcut a second time. Quit now closes the shortcut menu cleanly.
+
+
 ---
+
 
 ### Version 4.0 | Build 400
 
+
 #### 🛏️ Bedtime Reality Check
 
+
 Your alarms are set. Now find out exactly how much time you have left before your ass needs to get up.
+
 
 - **Countdown confirmation:** See the hours and minutes until your first alarm.
 - **Midnight-proof scheduling:** Wake-up times after midnight calculate correctly.
 - **Better confirmation:** Review how many alarms were created and when they'll start.
 - **Simple cleanup:** Delete Get Your Ass Up! alarms without touching your other alarms.
 
+
 ---
+
 
 ## 🐙 About SurfKraken
 
+
 Get Your Ass Up! is built with Apple Shortcuts to make alarm management faster, simpler, and more flexible.
 
+
 Created by **SurfKraken**.
+
 
 [View more shortscuts on GitHub](https://github.com/surfkraken/)
