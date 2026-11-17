@@ -1,6 +1,6 @@
 {
   "version": 7,
-  "build": 700,
-  "url": "https://www.icloud.com/shortcuts/25a2ab694e994fe29c9f460832bc767c",
-  "release_notes": "Version 7 (Build 700) includes interface improvements and build-based update checking."
+  "build": 705,
+  "url": "https://www.icloud.com/shortcuts/cbf0ed7bd9e84e34955f99b22704247f",
+  "release_notes": "Version 7 (Build 705) fixes the duplicate shortcut launch when returning from the GitHub project page."
 }
